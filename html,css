@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Session One </title>
+  <style>
+   .hes{
+     color:red;
+     background-color:yellow;
+     text-align: center;
+   }
+   .rap{
+     color:blue;
+     text-align:left;
+   }
+
+
+  </style>
+
+</head>
+<body>
+  <h1 class=hes>INDIAN FLAG</h1>
+  <p class=rap >The National Flag of India is a horizontal rectangular tricolour of India saffron, white and India green;<br> with the Ashoka Chakra, a 24-spoke wheel, in navy blue at its centre </p>
+
+</body>
+
+</html>
